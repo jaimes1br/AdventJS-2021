@@ -17,7 +17,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 |  #  |                  Retos                       |   Disponible    |                Solución                  |
 | :-: | :------------------------------------------: | :------------:  | :----------------------------------------: |
 | 01  |         Contando ovejas para dormir          |       ✅        | [Mirar](01_contandoOvejas/01_contandoOvejas.md) |
-| 02  |     ¡Ayuda al elfo a listar los regalos!     |       ✅        | [Mirar]() |
+| 02  |     ¡Ayuda al elfo a listar los regalos!     |       ✅        | [Mirar](02_elfoRegalos/02_elfoRegalos.md) |
 | 03  |    El Grinch quiere fastidiar la Navidad     |       ✅       | [Mirar]() |
 | 04  |    ¡Es hora de poner la navidad en casa!     |       ✅       | [Mirar]() |
 | 05  |      Contando los días para los regalos      |       ✅       | [Mirar]() |
