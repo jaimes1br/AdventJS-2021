@@ -15,30 +15,30 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 
 
 |  #  |                  Retos                       |   Disponible    |                Solución                  |
-| :-: | :------------------------------------------: | :------------:  | :----------------------------------------: |
-| 01  |         Contando ovejas para dormir          |       ✅        | [Mirar](01_contandoOvejas/01_contandoOvejas.md) |
-| 02  |     ¡Ayuda al elfo a listar los regalos!     |       ✅        | [Mirar](02_elfoRegalos/02_elfoRegalos.md) |
-| 03  |    El Grinch quiere fastidiar la Navidad     |       ✅       | [Mirar](03_grinch/03_grinch.md) |
-| 04  |    ¡Es hora de poner la navidad en casa!     |       ✅       | [Mirar](04_arbolNavidad/04_arbolNavidad.md) |
-| 05  |      Contando los días para los regalos      |       ✅       | [Mirar](05_contandoDias/05_contandoDias.md) |
-| 06  |        Rematando los exámenes finales        |       ✅       | [Mirar](06_exameneFinales/06_exameneFinales.md) |
-| 07  |          Buscando en el almacén...           |       ✅       | [Mirar](07_almacen/07_almacen.md) |
-| 08  |        La locura de las criptomonedas        |       ✅       | [Mirar](08_criptomonedas/08_criptomonedas.md) |
-| 09  |       Agrupando cosas automáticamente        |       ✅       | [Mirar](09_agrupando/09_agrupando.md) |
-| 10  |            La máquina del cambio             |       ✅       | [Mirar](10_maquinaCambio/10_maquinaCambio.md) |
-| 11  | ¿Vale la pena la tarjeta fidelidad del cine? |       ✅       | [Mirar](11_tarjetaCine/11_tarjetaCine.md) |
-| 12  |   La ruta perfecta para dejar los regalos    |       ✅       | [Mirar](12_ruta/12_ruta.md) |
-| 13  |       Envuelve regalos con asteriscos        |       ✅       | [Mirar](13_envolver/13_envolver.md) |
-| 14  |          En busca del reno perdido           |       ✅       | [Mirar](14_renoPerdido/14_renoPerdido.md) |
-| 15  |              El salto perfecto               |       ✅       | [Mirar](15_salto/15_salto.md) |
-| 16  |          Descifrando los números...          |       ✅       | [Mirar](16_numeros/16_numeros.md) |
-| 17  |  La locura de enviar paquetes en esta época  |       ✅       | [Mirar](17_carriers/17_carriers.md) |
-| 18  |     El sistema operativo de Santa Claus      |       ✅       | [Mirar](18_sistema/18_sistema.md) |
-| 19  |     ¿Qué deberíamos aprender en Platzi?      |       ✅       | [Mirar](19_platzi/19_platzi.md) |
-| 20  |        ¿Una carta de pangramas? ¡QUÉ!        |       ✅       | [Mirar](20_panagramas/20_panagramas.md) |
-| 21  |           La ruta con los regalos            |       ✅       | [Mirar](21_rutaRegalos/21_rutaRegalos.md) |
-| 22  |      ¿Cuántos adornos necesita el árbol?     |       ✅       | [Mirar](22_adorno/22_adorno.md) |
-| 23  |                      -                       |       -        | []() |
-| 20  |                      -                       |       -        | []() |
+| :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: |
+| 01  |         Contando ovejas para dormir          |       ✅        | [Mirar](retos/01_contandoOvejas/01_contandoOvejas.md) |
+| 02  |     ¡Ayuda al elfo a listar los regalos!     |       ✅        | [Mirar](retos/02_elfoRegalos/02_elfoRegalos.md) |
+| 03  |    El Grinch quiere fastidiar la Navidad     |       ✅       | [Mirar](retos/03_grinch/03_grinch.md) |
+| 04  |    ¡Es hora de poner la navidad en casa!     |       ✅       | [Mirar](retos/04_arbolNavidad/04_arbolNavidad.md) |
+| 05  |      Contando los días para los regalos      |       ✅       | [Mirar](retos/05_contandoDias/05_contandoDias.md) |
+| 06  |        Rematando los exámenes finales        |       ✅       | [Mirar](retos/06_exameneFinales/06_exameneFinales.md) |
+| 07  |          Buscando en el almacén...           |       ✅       | [Mirar](retos/07_almacen/07_almacen.md) |
+| 08  |        La locura de las criptomonedas        |       ✅       | [Mirar](retos/08_criptomonedas/08_criptomonedas.md) |
+| 09  |       Agrupando cosas automáticamente        |       ✅       | [Mirar](retos/09_agrupando/09_agrupando.md) |
+| 10  |            La máquina del cambio             |       ✅       | [Mirar](retos/10_maquinaCambio/10_maquinaCambio.md) |
+| 11  | ¿Vale la pena la tarjeta fidelidad del cine? |       ✅       | [Mirar](retos/11_tarjetaCine/11_tarjetaCine.md) |
+| 12  |   La ruta perfecta para dejar los regalos    |       ✅       | [Mirar](retos/12_ruta/12_ruta.md) |
+| 13  |       Envuelve regalos con asteriscos        |       ✅       | [Mirar](retos/13_envolver/13_envolver.md) |
+| 14  |          En busca del reno perdido           |       ✅       | [Mirar](retos/14_renoPerdido/14_renoPerdido.md) |
+| 15  |              El salto perfecto               |       ✅       | [Mirar](retos/15_salto/15_salto.md) |
+| 16  |          Descifrando los números...          |       ✅       | [Mirar](retos/16_numeros/16_numeros.md) |
+| 17  |  La locura de enviar paquetes en esta época  |       ✅       | [Mirar](retos/17_carriers/17_carriers.md) |
+| 18  |     El sistema operativo de Santa Claus      |       ✅       | [Mirar](retos/18_sistema/18_sistema.md) |
+| 19  |     ¿Qué deberíamos aprender en Platzi?      |       ✅       | [Mirar](retos/19_platzi/19_platzi.md) |
+| 20  |        ¿Una carta de pangramas? ¡QUÉ!        |       ✅       | [Mirar](retos/20_panagramas/20_panagramas.md) |
+| 21  |           La ruta con los regalos            |       ✅       | [Mirar](retos/21_rutaRegalos/21_rutaRegalos.md) |
+| 22  |      ¿Cuántos adornos necesita el árbol?     |       ✅       | [Mirar](retos/22_adornos/22_adornos.md) |
+| 23  |¿Puedes reconfigurar las fábricas para no parar de crear regalos?|       ✅        | [Mirar](retos/23_fabrica/23_fabrica.md) |
+| 24  |                      -                       |       -        | []() |
 | 25  |                      -                       |       -        | []() |
 
