@@ -40,5 +40,5 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 22  |      ¿Cuántos adornos necesita el árbol?     |       ✅       | [Mirar](Retos/22_adornos/22_adornos.md) |
 | 23  |¿Puedes reconfigurar las fábricas para no parar de crear regalos?|       ✅        | [Mirar](Retos/23_fabrica/23_fabrica.md) |
 | 24  |       Comparando árboles de Navidad          |       ✅        | [Mirar](Retos/24_comparando/24_comparando.md) |
-| 25  |                      -                       |       -        | []() |
+| 25  |  El último juego y hasta el año que viene    |       ✅        | [Mirar](Retos/25_ratoncito/25_ratoncito.md) |
 
